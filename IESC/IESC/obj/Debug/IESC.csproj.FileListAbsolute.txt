@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\IESC\IESC\obj\Debug\IESC.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\IESC\IESC\obj\Debug\IESC.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\IESC\IESC\bin\Debug\IESC.exe.config
+C:\Users\Zane\source\repos\IESC\IESC\bin\Debug\IESC.exe
+C:\Users\Zane\source\repos\IESC\IESC\bin\Debug\IESC.pdb
+C:\Users\Zane\source\repos\IESC\IESC\obj\Debug\IESC.exe
+C:\Users\Zane\source\repos\IESC\IESC\obj\Debug\IESC.pdb
